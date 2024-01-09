@@ -19,6 +19,7 @@ public class Main {
         intToString(number);
 
 
+
         //ESERCIZIO 3 #
         while(true) {
             System.out.println("Scrivi una parola: ");
