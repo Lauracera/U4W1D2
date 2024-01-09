@@ -12,6 +12,7 @@ public class Main {
         System.out.println(annoBisestile(2023));
 
 
+
         //ESERCIZIO 2 °
         System.out.print("Scegli un numero da 0 a 3: ");
         Scanner scanner = new Scanner (System.in);
